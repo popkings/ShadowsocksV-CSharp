@@ -1,0 +1,13 @@
+C:\Users\KingOfPops\Desktop\ShadowsocksR-win-3.8.8.0e-src---密码B13ABCHI08728S15\shadowsocks-csharp\bin\x86\Debug\ShadowsocksR.exe.config
+C:\Users\KingOfPops\Desktop\ShadowsocksR-win-3.8.8.0e-src---密码B13ABCHI08728S15\shadowsocks-csharp\bin\x86\Debug\ShadowsocksR.exe
+C:\Users\KingOfPops\Desktop\ShadowsocksR-win-3.8.8.0e-src---密码B13ABCHI08728S15\shadowsocks-csharp\bin\x86\Debug\ShadowsocksR.pdb
+C:\Users\KingOfPops\Desktop\ShadowsocksR-win-3.8.8.0e-src---密码B13ABCHI08728S15\shadowsocks-csharp\obj\x86\Debug\shadowsocks-csharp.csprojResolveAssemblyReference.cache
+C:\Users\KingOfPops\Desktop\ShadowsocksR-win-3.8.8.0e-src---密码B13ABCHI08728S15\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.ConfigForm.resources
+C:\Users\KingOfPops\Desktop\ShadowsocksR-win-3.8.8.0e-src---密码B13ABCHI08728S15\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.Properties.Resources.resources
+C:\Users\KingOfPops\Desktop\ShadowsocksR-win-3.8.8.0e-src---密码B13ABCHI08728S15\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.QRCodeForm.resources
+C:\Users\KingOfPops\Desktop\ShadowsocksR-win-3.8.8.0e-src---密码B13ABCHI08728S15\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.DoubleBufferListView.resources
+C:\Users\KingOfPops\Desktop\ShadowsocksR-win-3.8.8.0e-src---密码B13ABCHI08728S15\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.SettingsForm.resources
+C:\Users\KingOfPops\Desktop\ShadowsocksR-win-3.8.8.0e-src---密码B13ABCHI08728S15\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.ShowTextForm.resources
+C:\Users\KingOfPops\Desktop\ShadowsocksR-win-3.8.8.0e-src---密码B13ABCHI08728S15\shadowsocks-csharp\obj\x86\Debug\shadowsocks-csharp.csproj.GenerateResource.Cache
+C:\Users\KingOfPops\Desktop\ShadowsocksR-win-3.8.8.0e-src---密码B13ABCHI08728S15\shadowsocks-csharp\obj\x86\Debug\ShadowsocksR.exe
+C:\Users\KingOfPops\Desktop\ShadowsocksR-win-3.8.8.0e-src---密码B13ABCHI08728S15\shadowsocks-csharp\obj\x86\Debug\ShadowsocksR.pdb

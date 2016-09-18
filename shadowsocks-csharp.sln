@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shadowsocks-csharp", "shadowsocks-csharp\shadowsocks-csharp.csproj", "{8C02D2F7-7CDB-4D55-9F25-CD03EF4AA062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shadowsocks-csharp4.0", "shadowsocks-csharp\shadowsocks-csharp4.0.csproj", "{0F2A0C8A-6C06-485B-AA13-AEEC19CA9637}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8C02D2F7-7CDB-4D55-9F25-CD03EF4AA062} = {8C02D2F7-7CDB-4D55-9F25-CD03EF4AA062}
+		{DC8929F9-CAC8-4286-8CFE-6A70EF0EF835} = {DC8929F9-CAC8-4286-8CFE-6A70EF0EF835}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shadowsocks-csharp-console", "shadowsocks-csharp\shadowsocks-csharp-console.csproj", "{DC8929F9-CAC8-4286-8CFE-6A70EF0EF835}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8C02D2F7-7CDB-4D55-9F25-CD03EF4AA062} = {8C02D2F7-7CDB-4D55-9F25-CD03EF4AA062}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0BD67D24-A119-424E-B271-7B3E1830E834}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C02D2F7-7CDB-4D55-9F25-CD03EF4AA062}.Debug|x86.ActiveCfg = Debug|x86
+		{8C02D2F7-7CDB-4D55-9F25-CD03EF4AA062}.Debug|x86.Build.0 = Debug|x86
+		{8C02D2F7-7CDB-4D55-9F25-CD03EF4AA062}.Debug|x86.Deploy.0 = Debug|x86
+		{8C02D2F7-7CDB-4D55-9F25-CD03EF4AA062}.Release|x86.ActiveCfg = Release|x86
+		{8C02D2F7-7CDB-4D55-9F25-CD03EF4AA062}.Release|x86.Build.0 = Release|x86
+		{0F2A0C8A-6C06-485B-AA13-AEEC19CA9637}.Debug|x86.ActiveCfg = Debug|x86
+		{0F2A0C8A-6C06-485B-AA13-AEEC19CA9637}.Debug|x86.Build.0 = Debug|x86
+		{0F2A0C8A-6C06-485B-AA13-AEEC19CA9637}.Release|x86.ActiveCfg = Release|x86
+		{0F2A0C8A-6C06-485B-AA13-AEEC19CA9637}.Release|x86.Build.0 = Release|x86
+		{DC8929F9-CAC8-4286-8CFE-6A70EF0EF835}.Debug|x86.ActiveCfg = Debug|x86
+		{DC8929F9-CAC8-4286-8CFE-6A70EF0EF835}.Debug|x86.Build.0 = Debug|x86
+		{DC8929F9-CAC8-4286-8CFE-6A70EF0EF835}.Release|x86.ActiveCfg = Release|x86
+		{DC8929F9-CAC8-4286-8CFE-6A70EF0EF835}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
